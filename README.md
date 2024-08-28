@@ -24,7 +24,7 @@ The code includes several Bootstrap themes from [bootswatch.com](http://bootswat
 
 ![](misc/theme-flow.png)
 
-Installed themes include:
+Installed themes include
 
 * [amelia](http://bootswatch.com/amelia)
 * [default](http://bootswatch.com/default)
